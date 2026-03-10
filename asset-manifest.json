@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Food-Recipe-React.js/static/css/main.2c74213f.css",
+    "main.js": "/Food-Recipe-React.js/static/js/main.b60b7ab7.js",
+    "static/js/453.465bad7f.chunk.js": "/Food-Recipe-React.js/static/js/453.465bad7f.chunk.js",
+    "static/media/youtube-logo-png-2069.png": "/Food-Recipe-React.js/static/media/youtube-logo-png-2069.eb458a26db46cf5fe272.png",
+    "index.html": "/Food-Recipe-React.js/index.html",
+    "main.2c74213f.css.map": "/Food-Recipe-React.js/static/css/main.2c74213f.css.map",
+    "main.b60b7ab7.js.map": "/Food-Recipe-React.js/static/js/main.b60b7ab7.js.map",
+    "453.465bad7f.chunk.js.map": "/Food-Recipe-React.js/static/js/453.465bad7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c74213f.css",
+    "static/js/main.b60b7ab7.js"
+  ]
+}
